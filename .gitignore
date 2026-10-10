@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+*.safetensors
+*.gguf
+*.bin
+*.pt
+*.pth
+models/
+weights/
+results/**/raw/
+*.log
+.env
+*token*
+!**/token_*.py
+pipeline/
